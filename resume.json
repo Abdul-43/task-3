@@ -1,0 +1,55 @@
+{
+    "basics": {
+      "name": "Abdul Rahman H",
+      "email": "abdulpnoit.ar@gmail.com",
+      "phone": "9940715478",
+      "degree": "Bachelor of Technology (Information Technology)",
+      "location": {
+        "address": "Parangipettai",
+        "postalCode": "608502",
+        "city": "Cuddaloe",
+        "state": "Tamil Name",
+        "country": "India"
+      },
+      "profiles": [
+        {
+          "network": " LinkedIn",
+          "url": "linkedin.com/in/abdul-rahman-3350a91a9"
+        }
+      ]
+    },
+    
+    "education": [
+      {
+        "institution": "Manakula Vinayagar Institute of Technology",
+        "area": "Information Technology",
+        "studyType": "",
+        "startYear": "2018",
+        "endYear": "2022"
+        
+      }
+    ],
+    "skills": [
+      {
+        "name": "'Programming Languages'",
+        "level": "Intermeidate",
+        "keywords": [
+          "'Java','c++','c','JavaScript'"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil,English",
+        "fluency": "Normal"
+      }
+    ],
+    "interests": [
+      {
+        "name": "'Sports'",
+        "keywords": [
+          "'Volley Ball',"
+        ]
+      }
+    ]
+}
